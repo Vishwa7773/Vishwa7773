@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Vishwajeet.<br>I am currently pursuing my B.tech in AI and Data Science.<br>I am learning Data Manipulation,Data Visualization <br>and Data Analysis.<br>I am skilled in Python Programming, Python Libraries(Numpy,Pandas,Seaborn,Matplotlib).<br>I am currently learning on topics like Natural Language Processing,Machine Learning<br>and more about Data.  
+Hwllo there!!<br>I am Vishwajeet.<br>I am currently pursuing my B.tech in AI and Data Science.<br>I am learning Data Manipulation,Data Visualization <br>and Data Analysis.<br>I am skilled in Python Programming, Python Libraries(Numpy,Pandas,Seaborn,Matplotlib).<br>I am currently learning on topics like Natural Language Processing,Machine Learning<br>and more about Data.  
 
 
 ## 🌐 Socials:
